@@ -20,7 +20,7 @@ Machine Learning Project
 
 ## 🗂️ Table of Contents
 
-- [Dataset](#dataset)
+- [Dataset](#Dataset)
 - [EDA Summary](#eda-summary)
 - [Preprocessing](#preprocessing)
 - [Modeling](#modeling)
