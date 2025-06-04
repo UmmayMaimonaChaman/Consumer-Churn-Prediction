@@ -5,7 +5,7 @@ Machine Learning Project
 
 ## 📌 Project Overview
 
-**Consumer_Classification** is a machine learning project developed for **CSE422L: Artificial Intelligence Lab** (Section 12, Spring 2024). The objective of this project is to build predictive models that classify consumers based on their likelihood to churn (i.e., stop purchasing). This classification helps businesses implement data-driven marketing strategies and better understand consumer behavior.
+**Consumer_Classification** is a machine learning project developed for **CSE422L: Artificial Intelligence Lab** (Spring 2025). The objective of this project is to build predictive models that classify consumers based on their likelihood to churn (i.e., stop purchasing). This classification helps businesses implement data-driven marketing strategies and better understand consumer behavior.
 
 ---
 
