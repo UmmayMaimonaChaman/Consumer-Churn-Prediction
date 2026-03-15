@@ -1,4 +1,12 @@
 # Consumer-Churn-Prediction
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![ML Model](https://img.shields.io/badge/ML%20Model-Classification-orange?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-blue?style=flat-square)
+![Project](https://img.shields.io/badge/Project-Consumer%20Churn%20Prediction-purple?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Predictive%20Analytics-green?style=flat-square)
+
 Machine Learning Project
 
 # Consumer_Classification
